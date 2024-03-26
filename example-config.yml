@@ -1,0 +1,9 @@
+---
+mongo_service_name: "mongo-db"
+mongo_image: "mongo:6.0.5"
+mongo_root_user: ""
+mongo_root_password: ""
+mongo_backend_db_name: ""
+mongo_backend_db_user: ""
+mongo_backend_db_password: ""
+backend_http_public_port: 65535
